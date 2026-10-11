@@ -14,3 +14,14 @@ __v0_jsx-dev-runtime.ts
 node_modules
 .next/
 .DS_Store
+# Testler
+test-results/
+playwright-report/
+blob-report/
+
+# Supabase yerel geliştirme
+supabase/.temp/
+supabase/.branches/
+
+# TypeScript derleme önbelleği
+tsconfig.tsbuildinfo
